@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/view/FinishGame.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/view/Menu.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/view/SignUpJlog.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/controller/Controller.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/controller/ServerListener.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/Message/Message.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/view/GamePanel.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/view/Menu.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model/Game/Game.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/view/GameClient.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model/Pieces/Piece.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/onlineChess/Rook.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/onlineChess/Knight.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/server/ClientListener.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/view/GamePanel.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/server/NewClientListener.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/onlineChess/Queen.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/view/GameClient.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/onlineChess/Pawn.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/onlineChess/Client.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/server/main.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/onlineChess/Main.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model/Pieces/PieceImages.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/onlineChess/Board.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/onlineChess/ServerListener.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model/tcp/Client.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/view/SignUpJlog.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/view/LoginJLog.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/view/LoginJLog.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/onlineChess/King.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/view/GetNameJLog.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/onlineChess/Timer.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/server/Client.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/server/Server.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model/tcp/Message.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model/Board/Board.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/onlineChess/Piece.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/controller/Controller.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/onlineChess/Bishop.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/view/GameFrame.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/view/GameFrame.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/view/GetNameJLog.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model/Pieces/Pawn.java</file>
+            <file>file:/C:/Users/nxulu/Documents/NetBeansProjects/ChessGameSocket/src/model2/controller/ServerListener.java</file>
+        </group>
+    </open-files>
+</project-private>
